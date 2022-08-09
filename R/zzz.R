@@ -8,7 +8,7 @@ globalVariables(names = c('Year','Month', 'Day', 'Hour', 'Minute', 'Second',
 
 .onLoad <- function(libname, pkgname) {
 
-  options(phenocam_server = 'http://phenocam.sr.unh.edu')
+  options(phenocam_server = 'http://phenocam.nau.edu')
 
 }
 

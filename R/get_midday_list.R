@@ -13,7 +13,7 @@
 #' head(midday_url)
 #'
 get_midday_list <- function(site, direct = TRUE){
-  phenocam_server = 'http://phenocam.sr.unh.edu'
+  phenocam_server = 'http://phenocam.nau.edu'
 
   if(direct){
 
